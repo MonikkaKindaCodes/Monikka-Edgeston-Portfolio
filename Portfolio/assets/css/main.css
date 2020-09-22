@@ -4165,7 +4165,7 @@ input, select, textarea {
 		color:#f06529;
 
 	}
-	.fa-css3-alt {
+	.fa-css3-alt, .fa-atlassian, .fa-jira, .fa-confluence {
 		color:#2965f1;
 
 	}
@@ -4173,6 +4173,25 @@ input, select, textarea {
 		color: #f0db4f;
 
 	}
-	.left-right {
-		padding: 20px 0px 20px 0px;
+	.fa-bootstrap {
+		color: #563d7c;
+
+	}
+	.fa-git-square {
+		color: #f34f29;
+
+	}
+	.fa-ubuntu {
+		color: #dd4814;
+	}
+	.row-one {
+		padding-bottom: 15px;
+		padding-top: 15px;
+	}
+	.fa-font-awesome-flag {
+		color: #4cdcdc;
+
+	}
+	.skills {
+		text-align: center;
 	}
